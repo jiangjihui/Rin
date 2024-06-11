@@ -56,6 +56,8 @@ Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，�
  </picture>
 </a>
 
+# Test deploy
+
 # License
 ```
 MIT License
